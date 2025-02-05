@@ -1,0 +1,8 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Röhrich
+    given-names: Lukas
+title: "Adaptive Voter Model with Memory and Contagion Thresholds (working title)"
+version: 1.0
+date-released: 2025-03-05
