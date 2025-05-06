@@ -1,0 +1,6 @@
+../../0o1-20_s0
+Consensus: False	 -> after 0 steps.
+Consensus: True	 -> after 30 steps.
+../../0o1-20_s1
+Consensus: False	 -> after 0 steps.
+Consensus: True	 -> after 40 steps

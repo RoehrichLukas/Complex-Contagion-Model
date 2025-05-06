@@ -1,0 +1,11 @@
+../../0o1-10_s0
+Consensus: False	 -> after 0 steps.
+Consensus: True	 -> after 10 steps.
+../../0o1-10_s1
+Consensus: False	 -> after 0 steps.
+Consensus: True	 -> after 20 steps.
+../../0o1-10_s2
+Consensus: False	 -> after 0 steps.
+Consensus: False	 -> after 20 steps.
+Splitting calculations to 0 nodes.
+Calculating 0 ...done.
