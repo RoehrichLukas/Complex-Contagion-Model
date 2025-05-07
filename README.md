@@ -12,6 +12,11 @@ Created by Lukas Röhrich, MA Student Physics @ Potsdam Institute of Climate Imp
 Python library for complex contagion for an adaptive network with heterogeneous agents, each with a individual
 dose memory. Model is leaned on a general Dodds-Watts-Model and a general Holme-Newman-Model (see literature).
 
+## Thesis Results
+
+Most of the plots shown in the final version of the thesis are generated with the Jupyter Notebook `ThesisPlots.ipynb`
+which can be found in the `reults` directory of this repository.
+
 ## Literature
 
 [DoddsWatts2005] P.S.Dodds, D.J.Watts
